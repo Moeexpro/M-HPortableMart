@@ -1,3 +1,24 @@
+This is a multi vendor E-commerce web app, where user can perform these operations:
+Customer:
+Login/SignUp functionality with Google, and website own
+-View Top Vendors.
+-View New and Used Products
+-View Product Inspectors
+-Inspect Used Products
+-Purchase Products (Paypal trial gateway integrated)
+-View Inspection Report
+-View Total Orders
+-View Order Status
+-Add Product Review (If purchased)
+Vendor:
+-Add Product
+-See total Sales
+-CRUID operations on product
+-Register as Vendor (Email library integrated)
+Technologies Used:
+Frontend: React JS, Scss, MUI, Context API
+Database: Firebase (Cloud Firestore)
+
 # Getting Started with M&H Ecommerce MultiVendor React App
 
 Project is deployed on: https://mandhportablemart.netlify.app/
